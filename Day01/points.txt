@@ -1,0 +1,238 @@
+Python Training
+---------------
+Python - ML and AI
+
+Python - Open Source Technology
+
+Desktop Application 	-	TKinter (python with TK)
+
+Web Application		-	MVC Model View Controller, REST API
+				Flask, Django
+
+Mobile			-	Kivy
+
+Testing			-	Unit Test, Pytest, Selenium, RobotFramework
+
+Automation		-	Paramiko (Network)
+
+Web Scrapping 		-	Beautiful Soup
+
+Data Science		-	Numpy, Pandas, Matplotlib, Seaborn
+
+Data Analytics		-	Numpy, Pandas, Matplotlib, Seaborn
+
+
+
+ML			-	
+
+AI			-
+
+AI(NLP)			-
+
+--------------------------------------------------------------------------
+Python - www.python.org 
+------
+
+Versions
+--------
+
+2.x and 3.x
+-----------
+1. syntax difference
+
+2. some functions are deprecated
+
+
+2.x - print "hello world"
+
+3.x - print("Hello World")
+
+Flavours of Python
+------------------
+1. CPython	-	Currently using
+
+2. Jython	-	Python code = Java Code
+
+3. Iron Python	-	Python with Dotnet Libraries
+
+
+IDE or Editor
+-------------
+IDLE - Integrated Development Environment
+
+Notepad++
+
+PyCharm CE (Community Edition)
+
+VS Code CE
+
+Eclipse 
+
+Sublime Text
+
+Python 3.12.x
+-------------
+1. Python SDK		- Libraries used to execute python code
+
+2. Python Shell		- interactive environment where the interpreter is 			  always on
+
+3. IDLE			- Editor or IDE from python
+
+
+2.x
+----
+python had a datatype called long (2934809234203923423484L)
+
+3.x
+----
+long datatype is deprecated, but this property still exists
+
+
+Python there are two operators that are overloaded by default
+
++ - Can be used for addition and concatenation
+
+* - Can be used for multiplication and print a string n number of times
+
+Primitive Datatypes
+-------------------
+
+1. Numbers 
+----------
+a. integer  - 1, 2, 3
+b. float    - 1.0, 2.4, 3.5
+c. complex  - 10 + 2j
+
+2. Strings	
+
+3. Boolean
+
+
+Python Shell
+------------
+
+check my current directory
+--------------------------
+
+os module (os.py)
+---------
+
+import os
+
+we have a function reload from imp module
+
+1
+import imp
+imp.relaod()
+
+-----------------------
+2
+from imp import reload
+reload()
+
+-----------------------
+3
+import importlib
+importlib.reload()
+
+
+PyCharm
+-------
+New Project
+-----------
+1. create a new Virtual Environment
+
+2. install the necessary libraries
+
+Coding Rules
+------------
+1. no line termination characters, return key or enter key is the line termination
+
+2. #! - shebang - used to specify the path of python executable
+
+
+Comments
+--------
+
+# to write comments (single line comment)
+
+
+in python strings are enclosed in " " or ' ' 
+and multiline string is enclosed in 
+
+"""  """
+
+or 
+
+'''  '''
+
+Parenthesis - ( ) or { }
+-------------------------
+loops, if conditions and functions
+
+
+def fun():
+   print("Hello World")
+
+   for i in range(1, 26):
+	print(i)
+
+
+
+print function
+--------------
+print(data, sep=, end="\n")
+
+print("hello", end=" ")
+print("world")
+
+hello world
+
+
+a = 10
+b = 20
+c = 30
+
+print(a, b, c) = 10 20 30
+
+print(a, b, c, sep = ", ") => 10, 20, 30
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

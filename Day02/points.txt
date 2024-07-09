@@ -1,0 +1,189 @@
+Hexa Decimal
+------------
+0 - 9
+
+A - 10
+B - 11
+C - 12
+D - 13
+E - 14
+F - 15
+
+Operators
+---------
+1. Arithmetic Operators
+2. Comparison or Relational Operators
+3. Augmentor Operators
+4. Logical Operators
+5. Bitwise Operators
+6. Ternary Operator
+
+OR Operator
+-----------
+5 = 0101
+3 = 0011
+
+0101
+0011
+----
+0111 1+2+4
+----
+
+
+0101
+0011
+----
+0001
+----
+
+XOR operator
+------------
+T  T	F
+T  F	T
+F  T	T
+F  F    F
+
+0101
+0011
+----	
+0110
+----
+
+Left shift
+-----------
+5 << 1
+
+0101 << 1
+
+1010 - 10
+
+1000 - 8
+
+1000 << 1
+
+10000 - 2 ** 4 => 16
+
+0101 << 2
+
+10100 - 4 + 16 = 20
+
+10000 >> 1 => 1000 => 8
+
+0101 >> 1 => 0010 => 2
+
+Loops and Control Structures
+----------------------------
+
+Control Structures
+------------------
+1. if condition
+
+input function
+--------------
+value_str = input(prompt)
+
+
+Loops
+-----
+1. for loop
+2. while loop
+
+for loop
+--------
+initialize, test, incr
+
+for loop is same as foreach loop
+
+for loop depends on a sequence(collection) 
+
+generate this collection using a function - range
+
+range(initial_val : final_val : incr_by)
+
+range(1, 10) = 1, 2, 3....9 (<10)
+
+
+a. continue
+b. break
+c. else
+
+
+print function
+--------------
+print(data, sep, end="\n")
+
+
+While Loop
+-----------
+indefinite loop - we will have to write logical code to stop the iteration at a specific point
+
+
+problems
+--------
+
+print this pattern
+
+
+     1
+    1 2
+   1 2 3
+  1 2 3 4
+ 1 2 3 4 5
+  1 2 3 4
+   1 2 3
+    1 2
+     1
+
+print all prime numbers between 150 and 50
+
+x = 150, 149, 148...50
+
+x = 150 	
+
+y = 2.. 150 = [2...149]
+
+150/2
+
+
+
+x = 6
+
+y = 2..6
+
+7 / 2, 7 / 3, 7 / 4, 7 / 5, 7 / 6
+
+6 / 2
+
+Primitive Data Types
+--------------------
+1. Numbers
+
+2. Strings
+
+3. Boolean
+
+
+Memory Management in Python
+---------------------------
+
+
+
+Strings
+-------
+STRINGS ARE IMMUTABLE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -67,3 +67,17 @@ print(f"l1 :{l1}")
 l1.remove(3)
 
 print(f"l1 :{l1}")
+
+print("-" * 60)
+print(f"l1 :{l1}")
+
+while 2 in l1:
+    l1.remove(2)
+print(l1)
+
+print("clear".center(60, "-"))
+l1 = [1, 2, 3, 4, 5]
+print(f'l1 :{l1}')
+
+l1.clear()
+print(f"l1 :{l1}")

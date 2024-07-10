@@ -1,0 +1,81 @@
+# find, replace, index, maketrans, translate, count
+
+
+Maketrans
+---------
+
+hello 
+-----
+
+replace all l's by z
+
+hezzo
+
+------------------------------------------------------------------
+
+Data Structures
+---------------
+1. list
+2. dictionary
+3. tuple
+4. set
+
+list 
+----
+list are same as arrays
+
+what is an array
+----------------
+1. collection of homogenous data
+2. memory allocation is contagious
+
+List
+----
+1. list is a collection of heterogenous data
+2. memory allocation is not contagious
+3. it is an ordered collection
+4. it is mutable
+5. it is sub scriptable (can be indexed)
+6. lists are stored in [ ]
+
+
+l = [1, 2, 3, 'four', 'five', 'six']   
+
+
+unordered
+---------
+print(l) =>  [1, 'six', 3, 'four', 2, 'five']
+
+ 
+ordered => lists
+---------
+print(l) =>  [1, 2, 3, 'four', 'five', 'six']
+
+
+List manipulation functions
+----------------------------
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+
+add new elements 
+----------------
+1. append  - can add one element to the end of the list
+2. extend  - can add multiple elements into the list
+3. insert  - can insert a value in between the elements of the list
+
+remove or delete elements
+-------------------------
+1. clear
+2. pop
+3. remove
+
+
+count, copy, reverse and sort
+
+https://pythontutor.com/visualize.html#mode=edit
+
+
+
+
+
+

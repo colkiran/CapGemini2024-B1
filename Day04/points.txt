@@ -1,0 +1,70 @@
+Tuples
+------
+tuples are immutable lists
+tuples are enclosed in ( )
+
+Dictionary
+----------
+they are also called as associative arrays
+
+Array
+-----
+index  =  0    1    2    3    4    5
+values = 'a', 'b', 'c', 'd', 'e', 'f'
+
+Associative Array
+-----------------
+{0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e', 5: 'f'}
+
+keys   -  0, 1, 2, 3, 4, 5
+values - 'a', 'b', 'c', 'd', 'e', 'f'
+
+Keys - keys can be user defined
+       keys are always unique
+
+marks = {'mat': 95, 'phy': 90, 'che': 93, 'bio': 98}
+
+1. dictionaries are unordered collection
+2. It is mutable
+3. keys are always unique
+4. dictionaries are enclosed in { }
+
+Functions to manipulate the dictionary
+--------------------------------------
+clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+
+Set
+---
+1. sets are unordered collection
+2. sets are always unique
+3. sets cannot be subscripted (no indexing)
+4. sets are mutable
+5. sets are enclosed in { }
+
+
+Functions
+---------
+def function_name(arg1, arg2..):
+     print("hello")
+
+
+use recursive calls
+--------------------
+1. find the factorial of a number
+
+2. find Fibonacci series
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -53,3 +53,10 @@ for ky, info in emp.items():
     for k, v in info.items():
         print(k, "=>", v)
     print("-" * 60)
+
+print("get".center(60, "-"))
+emp = {'ename': 'Keneth', 'age': 30, 'desig': 'TL', 'dept': 'MKT', 'location': 'LA'}
+print(f"emp :{emp}")
+
+print(f"Name  :{emp.get('ename', 'Invalid Key, Please enter a valid key')}")
+print(f"Desig :{emp.get('desg', 'Invalid Key, Please enter a valid key')}")

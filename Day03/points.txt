@@ -74,6 +74,21 @@ count, copy, reverse and sort
 
 https://pythontutor.com/visualize.html#mode=edit
 
+Assignment
+----------
+
+1. st = "123456python456123"
+extract the string that is in between the numbers
+
+
+Tuple
+-----
+tuple is a immutable list
+tuples are enclosed in ( )
+
+
+
+
 
 
 

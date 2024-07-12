@@ -1,0 +1,98 @@
+class Employee:
+    
+   def __init__(self, name, age):
+       self.name = name
+       self.age = age
+
+
+def fun(nm, ag): 
+   y = "hello world"
+   z = 500
+
+   emp = Employee(nm, ag)
+   return emp
+
+
+fn = fun("Louis", 27)
+
+
+Scope of a variable
+-------------------
+1. local
+2. global
+3. non local
+
+local - lexical variable that looses its scope out of a block of code
+
+global - declared outside the functions and can be accessed across the  		functions
+
+nonlocal - 
+ 
+
+
+class
+-----
+
+
+class Employee:
+
+   school = "DPS"		# class attribute
+    
+   def __init__(self, name, age):
+       self.name = name
+       self.age = age
+
+
+   def get_details(self):
+	print(f"Name is {self.name}\nAge is {self.age}")
+
+
+Lambdas
+-------
+lambdas are anonymous functions with a single expression
+
+result of exp = lambda var1, var2, var3... : Expression
+
+Lambdas are best used with
+
+a. map
+b. filter
+c. reduce - functools
+
+map -> x ** 2 => [1, 2, 3, 4, 5]
+
+reduce
+------
+
+3, 5, 8, 2, 6, 9
+
+x = 3
+y = 5
+
+x = 5
+y = 8
+
+x = 8
+y = 2
+
+x = 8
+y = 6
+
+x = 8
+y = 9
+
+x = 9
+
+
+iterating through a collection using lambda syntaxes is called comprehensions
+
+
+
+
+
+
+
+
+
+
+ 

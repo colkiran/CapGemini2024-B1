@@ -1,5 +1,5 @@
 [project]
-name = "ibm_package"
+name = "CapGem_package"
 version = "0.0.1"
 authors = [
   { name="Example Author", email="author@example.com" },

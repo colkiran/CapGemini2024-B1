@@ -3,7 +3,7 @@ gname = "Sachin Tendulkar"
 
 sports = ['cricket', 'Football', 'Tennis', 'Hockey', 'Swimming']
 
-runs = {'odi': 26500, 'test': 13450, 't20': 2500}
+runs = {'odi': 26500, 'tests': 13450, 't20': 2500}
 
 def greet(gnm):
     print(f"Greeting Mr.{gnm}, Welcome to the event........")
